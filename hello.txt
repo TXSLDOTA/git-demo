@@ -12,6 +12,5 @@ hello zw hello git!
 hello zw hello git!
 hello zw hello git!
 hello zw hello git! master test
-hello zw hello git!
-hello zw hello git!
 hello zw hello git!  hot-fix 1111
+hello zw hello git!  hot-fix test 999
